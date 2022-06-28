@@ -1,6 +1,6 @@
 {
-    "name": "gopass",
-    "description": "Deploy gopass on Heroku.",
+    "name": "gaweew",
+    "description": "Deploy gaweew on Heroku.",
     "keywords": ["gopass"],
     "env": {
         "ID": {

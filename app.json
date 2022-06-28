@@ -1,0 +1,16 @@
+{
+    "name": "gopass",
+    "description": "Deploy gopass on Heroku.",
+    "keywords": ["gopass"],
+    "env": {
+        "ID": {
+            "description": "UUID",
+            "value": "ad806487-2d26-4636-98b6-ab85cc852111"
+        },
+        "WSPATH": {
+            "description": "WebSocket Path",
+            "value": "/"
+        }
+    },
+    "stack": "container"
+}
